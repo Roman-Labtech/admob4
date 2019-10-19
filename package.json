@@ -39,7 +39,9 @@
   "description": "An Ionic project",
   "cordova": {
     "plugins": {
-      "cordova-plugin-admobpro": {}
+      "cordova-plugin-admobpro": {
+      "ADMOB_APP_ID": "<ca-app-pub-9950476752545228~5030117591>"
+      }
     }
   }
 }
